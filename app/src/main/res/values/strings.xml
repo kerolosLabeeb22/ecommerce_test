@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ecommerce test</string>
+    <string name="signature_route_logo">signature route logo</string>
+    <string name="welcome_back_to_route">Welcome Back To Route</string>
+    <string name="please_sign_in_with_your_mail">Please sign in with your mail</string>
+    <string name="email_address">Email Address</string>
+    <string name="please_enter_your_email">Enter your Email</string>
+    <string name="password">Password</string>
+    <string name="enter_your_password">Enter your password</string>
+    <string name="forgot_password">Forgot password</string>
+</resources>
