@@ -9,10 +9,13 @@ object SplashDestination
 object LoginDestination
 
 @Serializable
-object RegisterDestination
+object HomeDestination
+
 
 @Serializable
-object HomeDestination
+object RegisterDestination
+
+
 
 @Serializable
 object ProductDetailsDestination
