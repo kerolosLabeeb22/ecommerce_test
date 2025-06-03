@@ -13,3 +13,6 @@ object RegisterDestination
 
 @Serializable
 object HomeDestination
+
+@Serializable
+object ProductDetailsDestination
